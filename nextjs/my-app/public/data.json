@@ -1,0 +1,1009 @@
+{
+    "success": true,
+    "total_products": 1000,
+    "message": "Successfully fetched 100 of 1000 products",
+    "offset": 0,
+    "limit": 100,
+    "products": [
+    {
+    "id": 1,
+    "price": 778.69,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399080",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/1.png",
+    "name": "Product 1",
+    "description": "Others few us role set.",
+    "created_at": "2023-03-03T13:57:09.399076"
+    },
+    {
+    "id": 2,
+    "price": 908.8,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399082",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/2.png",
+    "name": "Product 2",
+    "description": "Civil field respond drop huge risk wall sign.",
+    "created_at": "2023-03-03T13:57:09.399081"
+    },
+    {
+    "id": 3,
+    "price": 57.91,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399083",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/3.png",
+    "name": "Product 3",
+    "description": "Available space build policy people model treatment.",
+    "created_at": "2023-03-03T13:57:09.399082"
+    },
+    {
+    "id": 4,
+    "price": 618.73,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399084",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/4.png",
+    "name": "Product 4",
+    "description": "Hard use always term fire.",
+    "created_at": "2023-03-03T13:57:09.399083"
+    },
+    {
+    "id": 5,
+    "price": 247.98,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399085",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/5.png",
+    "name": "Product 5",
+    "description": "Rather him lay why.",
+    "created_at": "2023-03-03T13:57:09.399084"
+    },
+    {
+    "id": 6,
+    "price": 354.24,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399086",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/6.png",
+    "name": "Product 6",
+    "description": "Actually system increase.",
+    "created_at": "2023-03-03T13:57:09.399085"
+    },
+    {
+    "id": 7,
+    "price": 653.12,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399087",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/7.png",
+    "name": "Product 7",
+    "description": "Machine daughter project peace leave loss.",
+    "created_at": "2023-03-03T13:57:09.399087"
+    },
+    {
+    "id": 8,
+    "price": 522.45,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399088",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/8.png",
+    "name": "Product 8",
+    "description": "Realize street anything piece south yard since well.",
+    "created_at": "2023-03-03T13:57:09.399087"
+    },
+    {
+    "id": 9,
+    "price": 244.9,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399089",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/9.png",
+    "name": "Product 9",
+    "description": "School economy respond people.",
+    "created_at": "2023-03-03T13:57:09.399088"
+    },
+    {
+    "id": 10,
+    "price": 375.8,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399090",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/10.png",
+    "name": "Product 10",
+    "description": "Table husband only painting daughter.",
+    "created_at": "2023-03-03T13:57:09.399089"
+    },
+    {
+    "id": 11,
+    "price": 345.6,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399091",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/11.png",
+    "name": "Product 11",
+    "description": "Region half list company.",
+    "created_at": "2023-03-03T13:57:09.399090"
+    },
+    {
+    "id": 12,
+    "price": 832.24,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399092",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/12.png",
+    "name": "Product 12",
+    "description": "Approach how then maybe public summer.",
+    "created_at": "2023-03-03T13:57:09.399091"
+    },
+    {
+    "id": 13,
+    "price": 935.53,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399093",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/13.png",
+    "name": "Product 13",
+    "description": "Teacher magazine conference contain.",
+    "created_at": "2023-03-03T13:57:09.399092"
+    },
+    {
+    "id": 14,
+    "price": 180.16,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399094",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/14.png",
+    "name": "Product 14",
+    "description": "Party become beyond analysis.",
+    "created_at": "2023-03-03T13:57:09.399093"
+    },
+    {
+    "id": 15,
+    "price": 783.8,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399095",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/15.png",
+    "name": "Product 15",
+    "description": "Image set get question few because whole political.",
+    "created_at": "2023-03-03T13:57:09.399094"
+    },
+    {
+    "id": 16,
+    "price": 866.46,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399096",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/16.png",
+    "name": "Product 16",
+    "description": "World early north TV around meet goal.",
+    "created_at": "2023-03-03T13:57:09.399095"
+    },
+    {
+    "id": 17,
+    "price": 279.33,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399096",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/17.png",
+    "name": "Product 17",
+    "description": "Reason responsibility have must.",
+    "created_at": "2023-03-03T13:57:09.399096"
+    },
+    {
+    "id": 18,
+    "price": 887.15,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399097",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/18.png",
+    "name": "Product 18",
+    "description": "Up some language soon prepare apply future response.",
+    "created_at": "2023-03-03T13:57:09.399097"
+    },
+    {
+    "id": 19,
+    "price": 385.42,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399098",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/19.png",
+    "name": "Product 19",
+    "description": "Reduce decide point answer left build upon.",
+    "created_at": "2023-03-03T13:57:09.399098"
+    },
+    {
+    "id": 20,
+    "price": 102.73,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399099",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/20.png",
+    "name": "Product 20",
+    "description": "Food ever fact expert professor.",
+    "created_at": "2023-03-03T13:57:09.399099"
+    },
+    {
+    "id": 21,
+    "price": 147.76,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399100",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/21.png",
+    "name": "Product 21",
+    "description": "Guy include name quality peace stock create true.",
+    "created_at": "2023-03-03T13:57:09.399100"
+    },
+    {
+    "id": 22,
+    "price": 335.44,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399101",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/22.png",
+    "name": "Product 22",
+    "description": "Top your fall few.",
+    "created_at": "2023-03-03T13:57:09.399100"
+    },
+    {
+    "id": 23,
+    "price": 846.51,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399102",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/23.png",
+    "name": "Product 23",
+    "description": "Take for special development white career head.",
+    "created_at": "2023-03-03T13:57:09.399101"
+    },
+    {
+    "id": 24,
+    "price": 587.69,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399103",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/24.png",
+    "name": "Product 24",
+    "description": "Record eye picture kind drive.",
+    "created_at": "2023-03-03T13:57:09.399102"
+    },
+    {
+    "id": 25,
+    "price": 139.63,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399104",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/25.png",
+    "name": "Product 25",
+    "description": "Drug if approach out.",
+    "created_at": "2023-03-03T13:57:09.399103"
+    },
+    {
+    "id": 26,
+    "price": 724.71,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399105",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/26.png",
+    "name": "Product 26",
+    "description": "Set home job company.",
+    "created_at": "2023-03-03T13:57:09.399104"
+    },
+    {
+    "id": 27,
+    "price": 582.39,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399105",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/27.png",
+    "name": "Product 27",
+    "description": "Trouble act huge easy style physical.",
+    "created_at": "2023-03-03T13:57:09.399105"
+    },
+    {
+    "id": 28,
+    "price": 644.18,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399106",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/28.png",
+    "name": "Product 28",
+    "description": "Month decide cold wrong.",
+    "created_at": "2023-03-03T13:57:09.399106"
+    },
+    {
+    "id": 29,
+    "price": 918.76,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399107",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/29.png",
+    "name": "Product 29",
+    "description": "Nature focus wonder behind.",
+    "created_at": "2023-03-03T13:57:09.399107"
+    },
+    {
+    "id": 30,
+    "price": 945.08,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399108",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/30.png",
+    "name": "Product 30",
+    "description": "Pattern degree far without.",
+    "created_at": "2023-03-03T13:57:09.399108"
+    },
+    {
+    "id": 31,
+    "price": 556.85,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399109",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/31.png",
+    "name": "Product 31",
+    "description": "Ball animal agreement father.",
+    "created_at": "2023-03-03T13:57:09.399109"
+    },
+    {
+    "id": 32,
+    "price": 96.77,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399110",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/32.png",
+    "name": "Product 32",
+    "description": "Analysis staff Republican do.",
+    "created_at": "2023-03-03T13:57:09.399110"
+    },
+    {
+    "id": 33,
+    "price": 178.58,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399111",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/33.png",
+    "name": "Product 33",
+    "description": "International point keep professor matter police.",
+    "created_at": "2023-03-03T13:57:09.399110"
+    },
+    {
+    "id": 34,
+    "price": 503.72,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399112",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/34.png",
+    "name": "Product 34",
+    "description": "Wife commercial kitchen in partner step radio.",
+    "created_at": "2023-03-03T13:57:09.399111"
+    },
+    {
+    "id": 35,
+    "price": 727.03,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399113",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/35.png",
+    "name": "Product 35",
+    "description": "Community find carry figure goal political factor international.",
+    "created_at": "2023-03-03T13:57:09.399112"
+    },
+    {
+    "id": 36,
+    "price": 660.22,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399114",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/36.png",
+    "name": "Product 36",
+    "description": "Civil rock everything.",
+    "created_at": "2023-03-03T13:57:09.399113"
+    },
+    {
+    "id": 37,
+    "price": 726.99,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399114",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/37.png",
+    "name": "Product 37",
+    "description": "Learn edge degree name order.",
+    "created_at": "2023-03-03T13:57:09.399114"
+    },
+    {
+    "id": 38,
+    "price": 496.66,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399115",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/38.png",
+    "name": "Product 38",
+    "description": "Particular drive cost Republican deep second.",
+    "created_at": "2023-03-03T13:57:09.399115"
+    },
+    {
+    "id": 39,
+    "price": 875,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399116",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/39.png",
+    "name": "Product 39",
+    "description": "Field challenge budget behind answer.",
+    "created_at": "2023-03-03T13:57:09.399116"
+    },
+    {
+    "id": 40,
+    "price": 303.25,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399117",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/40.png",
+    "name": "Product 40",
+    "description": "East answer central occur result build.",
+    "created_at": "2023-03-03T13:57:09.399117"
+    },
+    {
+    "id": 41,
+    "price": 363.29,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399118",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/41.png",
+    "name": "Product 41",
+    "description": "Position long student north person produce science.",
+    "created_at": "2023-03-03T13:57:09.399118"
+    },
+    {
+    "id": 42,
+    "price": 444.25,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399119",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/42.png",
+    "name": "Product 42",
+    "description": "Develop something so wonder race.",
+    "created_at": "2023-03-03T13:57:09.399119"
+    },
+    {
+    "id": 43,
+    "price": 823.59,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399120",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/43.png",
+    "name": "Product 43",
+    "description": "Of argue a final follow evening hair.",
+    "created_at": "2023-03-03T13:57:09.399120"
+    },
+    {
+    "id": 44,
+    "price": 793.97,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399121",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/44.png",
+    "name": "Product 44",
+    "description": "Positive particular price anything.",
+    "created_at": "2023-03-03T13:57:09.399120"
+    },
+    {
+    "id": 45,
+    "price": 250.12,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399122",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/45.png",
+    "name": "Product 45",
+    "description": "Majority image similar change should.",
+    "created_at": "2023-03-03T13:57:09.399121"
+    },
+    {
+    "id": 46,
+    "price": 433.03,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399123",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/46.png",
+    "name": "Product 46",
+    "description": "Maintain across current smile also.",
+    "created_at": "2023-03-03T13:57:09.399122"
+    },
+    {
+    "id": 47,
+    "price": 345.62,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399123",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/47.png",
+    "name": "Product 47",
+    "description": "Final poor walk again would high particularly.",
+    "created_at": "2023-03-03T13:57:09.399123"
+    },
+    {
+    "id": 48,
+    "price": 995.76,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399124",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/48.png",
+    "name": "Product 48",
+    "description": "Gun former behavior.",
+    "created_at": "2023-03-03T13:57:09.399124"
+    },
+    {
+    "id": 49,
+    "price": 247.56,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399125",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/49.png",
+    "name": "Product 49",
+    "description": "Person sport on kitchen.",
+    "created_at": "2023-03-03T13:57:09.399125"
+    },
+    {
+    "id": 50,
+    "price": 385.06,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399126",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/50.png",
+    "name": "Product 50",
+    "description": "Make just peace degree look huge.",
+    "created_at": "2023-03-03T13:57:09.399126"
+    },
+    {
+    "id": 51,
+    "price": 685.59,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399127",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/51.png",
+    "name": "Product 51",
+    "description": "Trouble offer candidate maybe mean.",
+    "created_at": "2023-03-03T13:57:09.399127"
+    },
+    {
+    "id": 52,
+    "price": 419.7,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399128",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/52.png",
+    "name": "Product 52",
+    "description": "Moment several anything morning.",
+    "created_at": "2023-03-03T13:57:09.399128"
+    },
+    {
+    "id": 53,
+    "price": 486.14,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399129",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/53.png",
+    "name": "Product 53",
+    "description": "News experience anything action today stock change.",
+    "created_at": "2023-03-03T13:57:09.399128"
+    },
+    {
+    "id": 54,
+    "price": 484.84,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399130",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/54.png",
+    "name": "Product 54",
+    "description": "Also movement worker medical people important difference.",
+    "created_at": "2023-03-03T13:57:09.399129"
+    },
+    {
+    "id": 55,
+    "price": 75.51,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399131",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/55.png",
+    "name": "Product 55",
+    "description": "Hotel they southern music statement.",
+    "created_at": "2023-03-03T13:57:09.399130"
+    },
+    {
+    "id": 56,
+    "price": 354.06,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399132",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/56.png",
+    "name": "Product 56",
+    "description": "Fight without pass effect.",
+    "created_at": "2023-03-03T13:57:09.399131"
+    },
+    {
+    "id": 57,
+    "price": 496.57,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399132",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/57.png",
+    "name": "Product 57",
+    "description": "Over mind the manage act sea.",
+    "created_at": "2023-03-03T13:57:09.399132"
+    },
+    {
+    "id": 58,
+    "price": 639.01,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399133",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/58.png",
+    "name": "Product 58",
+    "description": "Speak thought left specific of compare bad.",
+    "created_at": "2023-03-03T13:57:09.399133"
+    },
+    {
+    "id": 59,
+    "price": 937.26,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399134",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/59.png",
+    "name": "Product 59",
+    "description": "Student hand task most.",
+    "created_at": "2023-03-03T13:57:09.399134"
+    },
+    {
+    "id": 60,
+    "price": 40.49,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399135",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/60.png",
+    "name": "Product 60",
+    "description": "Receive loss allow allow range when east.",
+    "created_at": "2023-03-03T13:57:09.399135"
+    },
+    {
+    "id": 61,
+    "price": 709.66,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399136",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/61.png",
+    "name": "Product 61",
+    "description": "Red street where ahead ability recognize.",
+    "created_at": "2023-03-03T13:57:09.399136"
+    },
+    {
+    "id": 62,
+    "price": 968.37,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399137",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/62.png",
+    "name": "Product 62",
+    "description": "Walk stock election.",
+    "created_at": "2023-03-03T13:57:09.399137"
+    },
+    {
+    "id": 63,
+    "price": 717.93,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399138",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/63.png",
+    "name": "Product 63",
+    "description": "Finally my option as relate.",
+    "created_at": "2023-03-03T13:57:09.399138"
+    },
+    {
+    "id": 64,
+    "price": 57.64,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399139",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/64.png",
+    "name": "Product 64",
+    "description": "Quite arm physical nor voice movement main.",
+    "created_at": "2023-03-03T13:57:09.399139"
+    },
+    {
+    "id": 65,
+    "price": 398.6,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399140",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/65.png",
+    "name": "Product 65",
+    "description": "Party see eat find.",
+    "created_at": "2023-03-03T13:57:09.399139"
+    },
+    {
+    "id": 66,
+    "price": 901.68,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399141",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/66.png",
+    "name": "Product 66",
+    "description": "Learn world agreement receive civil range.",
+    "created_at": "2023-03-03T13:57:09.399140"
+    },
+    {
+    "id": 67,
+    "price": 83.22,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399142",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/67.png",
+    "name": "Product 67",
+    "description": "Everything model interest read film everything.",
+    "created_at": "2023-03-03T13:57:09.399141"
+    },
+    {
+    "id": 68,
+    "price": 604.16,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399143",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/68.png",
+    "name": "Product 68",
+    "description": "Travel no white.",
+    "created_at": "2023-03-03T13:57:09.399142"
+    },
+    {
+    "id": 69,
+    "price": 249.75,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399143",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/69.png",
+    "name": "Product 69",
+    "description": "Knowledge player community.",
+    "created_at": "2023-03-03T13:57:09.399143"
+    },
+    {
+    "id": 70,
+    "price": 983.89,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399144",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/70.png",
+    "name": "Product 70",
+    "description": "Board save peace small top town.",
+    "created_at": "2023-03-03T13:57:09.399144"
+    },
+    {
+    "id": 71,
+    "price": 75.69,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399145",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/71.png",
+    "name": "Product 71",
+    "description": "Work television those claim.",
+    "created_at": "2023-03-03T13:57:09.399145"
+    },
+    {
+    "id": 72,
+    "price": 617.11,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399146",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/72.png",
+    "name": "Product 72",
+    "description": "Out player leg ok small minute return morning.",
+    "created_at": "2023-03-03T13:57:09.399146"
+    },
+    {
+    "id": 73,
+    "price": 425.6,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399147",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/73.png",
+    "name": "Product 73",
+    "description": "Down model series team.",
+    "created_at": "2023-03-03T13:57:09.399147"
+    },
+    {
+    "id": 74,
+    "price": 406.15,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399148",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/74.png",
+    "name": "Product 74",
+    "description": "Level nice write individual major conference bed.",
+    "created_at": "2023-03-03T13:57:09.399148"
+    },
+    {
+    "id": 75,
+    "price": 414.62,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399149",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/75.png",
+    "name": "Product 75",
+    "description": "Develop role in each him half stuff.",
+    "created_at": "2023-03-03T13:57:09.399148"
+    },
+    {
+    "id": 76,
+    "price": 394.48,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399150",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/76.png",
+    "name": "Product 76",
+    "description": "One apply personal receive and within.",
+    "created_at": "2023-03-03T13:57:09.399149"
+    },
+    {
+    "id": 77,
+    "price": 791.33,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399151",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/77.png",
+    "name": "Product 77",
+    "description": "Around PM on group education college any evidence.",
+    "created_at": "2023-03-03T13:57:09.399150"
+    },
+    {
+    "id": 78,
+    "price": 400.96,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399152",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/78.png",
+    "name": "Product 78",
+    "description": "Dog argue him production.",
+    "created_at": "2023-03-03T13:57:09.399151"
+    },
+    {
+    "id": 79,
+    "price": 911.99,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399152",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/79.png",
+    "name": "Product 79",
+    "description": "On participant table get attention interesting discover.",
+    "created_at": "2023-03-03T13:57:09.399152"
+    },
+    {
+    "id": 80,
+    "price": 302.58,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399153",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/80.png",
+    "name": "Product 80",
+    "description": "Somebody animal million recently economic way.",
+    "created_at": "2023-03-03T13:57:09.399153"
+    },
+    {
+    "id": 81,
+    "price": 756.48,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399154",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/81.png",
+    "name": "Product 81",
+    "description": "Again share bill suggest short.",
+    "created_at": "2023-03-03T13:57:09.399154"
+    },
+    {
+    "id": 82,
+    "price": 897.85,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399155",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/82.png",
+    "name": "Product 82",
+    "description": "Natural part scene know performance great find.",
+    "created_at": "2023-03-03T13:57:09.399155"
+    },
+    {
+    "id": 83,
+    "price": 979.53,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399156",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/83.png",
+    "name": "Product 83",
+    "description": "Probably skill language according hotel increase.",
+    "created_at": "2023-03-03T13:57:09.399156"
+    },
+    {
+    "id": 84,
+    "price": 694.86,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399157",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/84.png",
+    "name": "Product 84",
+    "description": "If fear on specific side.",
+    "created_at": "2023-03-03T13:57:09.399157"
+    },
+    {
+    "id": 85,
+    "price": 699.61,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399158",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/85.png",
+    "name": "Product 85",
+    "description": "Quickly party doctor couple identify.",
+    "created_at": "2023-03-03T13:57:09.399157"
+    },
+    {
+    "id": 86,
+    "price": 440.87,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399159",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/86.png",
+    "name": "Product 86",
+    "description": "Peace bad both.",
+    "created_at": "2023-03-03T13:57:09.399158"
+    },
+    {
+    "id": 87,
+    "price": 382.5,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399160",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/87.png",
+    "name": "Product 87",
+    "description": "Either real since six any he per.",
+    "created_at": "2023-03-03T13:57:09.399159"
+    },
+    {
+    "id": 88,
+    "price": 617.73,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399161",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/88.png",
+    "name": "Product 88",
+    "description": "Truth a senior message during.",
+    "created_at": "2023-03-03T13:57:09.399160"
+    },
+    {
+    "id": 89,
+    "price": 550.91,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399161",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/89.png",
+    "name": "Product 89",
+    "description": "Board Democrat herself realize million.",
+    "created_at": "2023-03-03T13:57:09.399161"
+    },
+    {
+    "id": 90,
+    "price": 224.41,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399162",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/90.png",
+    "name": "Product 90",
+    "description": "Lose place write who agency more including.",
+    "created_at": "2023-03-03T13:57:09.399162"
+    },
+    {
+    "id": 91,
+    "price": 199.41,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399163",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/91.png",
+    "name": "Product 91",
+    "description": "Bring deal end bag political.",
+    "created_at": "2023-03-03T13:57:09.399163"
+    },
+    {
+    "id": 92,
+    "price": 413.61,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399164",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/92.png",
+    "name": "Product 92",
+    "description": "Thing popular end pull inside song resource.",
+    "created_at": "2023-03-03T13:57:09.399164"
+    },
+    {
+    "id": 93,
+    "price": 162.36,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399165",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/93.png",
+    "name": "Product 93",
+    "description": "Something everyone during bag.",
+    "created_at": "2023-03-03T13:57:09.399165"
+    },
+    {
+    "id": 94,
+    "price": 415.17,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399166",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/94.png",
+    "name": "Product 94",
+    "description": "Could simply ready.",
+    "created_at": "2023-03-03T13:57:09.399166"
+    },
+    {
+    "id": 95,
+    "price": 3.04,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399167",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/95.png",
+    "name": "Product 95",
+    "description": "Special authority one they.",
+    "created_at": "2023-03-03T13:57:09.399166"
+    },
+    {
+    "id": 96,
+    "price": 233.98,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399168",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/96.png",
+    "name": "Product 96",
+    "description": "Close nature nice analysis teacher blood season.",
+    "created_at": "2023-03-03T13:57:09.399167"
+    },
+    {
+    "id": 97,
+    "price": 131.16,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399169",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/97.png",
+    "name": "Product 97",
+    "description": "Book rather job commercial morning difficult campaign modern.",
+    "created_at": "2023-03-03T13:57:09.399168"
+    },
+    {
+    "id": 98,
+    "price": 298.97,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399170",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/98.png",
+    "name": "Product 98",
+    "description": "Civil take range under not.",
+    "created_at": "2023-03-03T13:57:09.399169"
+    },
+    {
+    "id": 99,
+    "price": 251.83,
+    "category": "physical",
+    "updated_at": "2023-03-03T13:57:09.399170",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/99.png",
+    "name": "Product 99",
+    "description": "Fear social risk star policy behind.",
+    "created_at": "2023-03-03T13:57:09.399170"
+    },
+    {
+    "id": 100,
+    "price": 53.67,
+    "category": "digital",
+    "updated_at": "2023-03-03T13:57:09.399171",
+    "photo_url": "https://api.slingacademy.com/public/sample-products/100.png",
+    "name": "Product 100",
+    "description": "Question economic while arm.",
+    "created_at": "2023-03-03T13:57:09.399171"
+    }
+    ]
+    }
