@@ -1,7 +1,7 @@
 import { CommonModule, NgOptimizedImage } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, Subscription } from 'rxjs';
 
 interface ProductsInterface {
   id: number;
@@ -30,6 +30,7 @@ interface RequestInterface {
 export class PageImageComponent implements OnInit {
 
   products!: ProductsInterface[];
+  dataSubscription!: Subscription;
 
   constructor(private http: HttpClient) {
   }
@@ -43,11 +44,15 @@ export class PageImageComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.getProducts().subscribe(
+    this.dataSubscription = this.getProducts().subscribe(
       (data) => {
         this.products = data.products;
       }
     )
   }
+
+  ngOnDestroy(): void {
+    this.dataSubscription.unsubscribe()
+  }  
 
 }

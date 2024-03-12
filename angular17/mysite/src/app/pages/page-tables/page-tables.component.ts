@@ -1,7 +1,8 @@
 import { HttpClient } from '@angular/common/http';
-import {AfterViewInit, Component, ViewChild} from '@angular/core';
+import {AfterViewInit, Component, OnDestroy, ViewChild} from '@angular/core';
 import {MatPaginator, MatPaginatorModule} from '@angular/material/paginator';
 import {MatTableDataSource, MatTableModule} from '@angular/material/table';
+import { Subscription } from 'rxjs'
 
 export interface PeriodicElement {
   name: string;
@@ -20,9 +21,10 @@ export interface PeriodicElement {
   templateUrl: './page-tables.component.html',
   styleUrl: './page-tables.component.scss'
 })
-export class PageTablesComponent implements AfterViewInit {
+export class PageTablesComponent implements AfterViewInit, OnDestroy {
   displayedColumns: string[] = ['name', 'index', 'isActive', 'balance', 'age', 'eyeColor'];
   dataSource: any;
+  dataSubscription!: Subscription;
 
   constructor(private http: HttpClient) {
 
@@ -35,12 +37,16 @@ export class PageTablesComponent implements AfterViewInit {
   }
 
   ngAfterViewInit() {
-    this.query().subscribe(
+    this.dataSubscription = this.query().subscribe(
       (data: any) => {
         this.dataSource = new MatTableDataSource<PeriodicElement>(data);  
         this.dataSource.paginator = this.paginator;
       }
     )
+  }
+
+  ngOnDestroy(): void {
+    this.dataSubscription.unsubscribe()
   }
 
 
