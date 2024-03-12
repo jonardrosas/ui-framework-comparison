@@ -1,7 +1,27 @@
-<nav>
+
+<mat-drawer-container class="example-container">
+  <mat-drawer-content>
+<!--<nav>
   <ul>
-    <li><a routerLink="images">Images</a></li>
-    <li><a routerLink="tables">Tables</a></li>
+    <li><a routerLink="images">Images POC</a></li>
+    <li><a routerLink="tables">Tables POC</a></li>
   </ul>
 </nav>
-<router-outlet></router-outlet>
+-->
+
+
+<p>
+  <mat-toolbar color="accent">
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>Angular POC</span>
+    <span class="example-spacer"></span>
+    <a class="link" routerLink="images">Images POC</a>
+    <a class="link" routerLink="tables">Table POC</a>
+  </mat-toolbar>
+</p>
+
+    <router-outlet></router-outlet>
+  </mat-drawer-content>
+</mat-drawer-container>

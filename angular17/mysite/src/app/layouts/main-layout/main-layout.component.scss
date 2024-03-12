@@ -1,8 +1,8 @@
-ul {
-    display: flex;
-    list-style: none;
+.example-spacer {
+  flex: 1 1 auto;
+}
 
-    li {
-        cursor: pointer;
-    }
+.link {
+    margin-left: 10px;
+    text-decoration: none;
 }
