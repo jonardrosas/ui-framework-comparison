@@ -1,0 +1,56 @@
+<div class="mat-elevation-z8 table-container">
+  <table mat-table [dataSource]="dataSource">
+
+    <!-- Position Column -->
+    <ng-container matColumnDef="index">
+      <th mat-header-cell *matHeaderCellDef> Index </th>
+      <td mat-cell *matCellDef="let element"> {{element.index}} </td>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="name">
+      <th mat-header-cell *matHeaderCellDef> Name </th>
+      <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+    </ng-container>
+
+    <!-- Weight Column -->
+    <ng-container matColumnDef="isActive">
+      <th mat-header-cell *matHeaderCellDef> isActive </th>
+      <td mat-cell *matCellDef="let element"> {{element.isActive}} </td>
+    </ng-container>
+
+    <!-- Symbol Column -->
+    <ng-container matColumnDef="balance">
+      <th mat-header-cell *matHeaderCellDef> balance </th>
+      <td mat-cell *matCellDef="let element"> {{element.balance}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="age">
+      <th mat-header-cell *matHeaderCellDef> Age </th>
+      <td mat-cell *matCellDef="let element"> {{element.age}} </td>
+    </ng-container>    
+
+    <ng-container matColumnDef="eyeColor">
+      <th mat-header-cell *matHeaderCellDef> eyeColor </th>
+      <td mat-cell *matCellDef="let element"> {{element.eyeColor}} </td>
+    </ng-container>        
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+  <mat-paginator [pageSizeOptions]="[100, 5, 10, 20]"
+                 showFirstLastButtons
+                 aria-label="Select page of periodic elements">
+  </mat-paginator>
+</div>
+
+
+<div class="main">
+  <h1>Images </h1>
+  <div class="item-container">
+    <div class="item" *ngFor="let product of products">
+      <img [ngSrc]="product.photo_url" width="350" height="350" alt=".." priority />
+    </div>
+  </div>
+</div>

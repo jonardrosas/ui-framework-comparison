@@ -32,7 +32,7 @@ export class PageTablesComponent implements AfterViewInit, OnDestroy {
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
 
- query(): any {
+  query(): any {
     return this.http.get('https://gist.githubusercontent.com/krishna1234/94a8746a241ec6784a4c694d10c6d915/raw/c2ab14129870ae016e8bdc42b38e0dc6d0837177/gistfile1.txt')
   }
 
