@@ -2,9 +2,9 @@
   <table mat-table [dataSource]="dataSource">
 
     <!-- Position Column -->
-    <ng-container matColumnDef="position">
-      <th mat-header-cell *matHeaderCellDef> No. </th>
-      <td mat-cell *matCellDef="let element"> {{element.position}} </td>
+    <ng-container matColumnDef="index">
+      <th mat-header-cell *matHeaderCellDef> Index </th>
+      <td mat-cell *matCellDef="let element"> {{element.index}} </td>
     </ng-container>
 
     <!-- Name Column -->
@@ -14,16 +14,26 @@
     </ng-container>
 
     <!-- Weight Column -->
-    <ng-container matColumnDef="weight">
-      <th mat-header-cell *matHeaderCellDef> Weight </th>
-      <td mat-cell *matCellDef="let element"> {{element.weight}} </td>
+    <ng-container matColumnDef="isActive">
+      <th mat-header-cell *matHeaderCellDef> isActive </th>
+      <td mat-cell *matCellDef="let element"> {{element.isActive}} </td>
     </ng-container>
 
     <!-- Symbol Column -->
-    <ng-container matColumnDef="symbol">
-      <th mat-header-cell *matHeaderCellDef> Symbol </th>
-      <td mat-cell *matCellDef="let element"> {{element.symbol}} </td>
+    <ng-container matColumnDef="balance">
+      <th mat-header-cell *matHeaderCellDef> balance </th>
+      <td mat-cell *matCellDef="let element"> {{element.balance}} </td>
     </ng-container>
+
+    <ng-container matColumnDef="age">
+      <th mat-header-cell *matHeaderCellDef> Age </th>
+      <td mat-cell *matCellDef="let element"> {{element.age}} </td>
+    </ng-container>    
+
+    <ng-container matColumnDef="eyeColor">
+      <th mat-header-cell *matHeaderCellDef> eyeColor </th>
+      <td mat-cell *matCellDef="let element"> {{element.eyeColor}} </td>
+    </ng-container>        
 
     <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
     <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>

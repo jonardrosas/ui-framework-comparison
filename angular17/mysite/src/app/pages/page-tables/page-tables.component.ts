@@ -5,6 +5,11 @@ import {MatTableDataSource, MatTableModule} from '@angular/material/table';
 
 export interface PeriodicElement {
   name: string;
+  index: number;
+  isActive: boolean;
+  balance: string;
+  age: number;
+  eyeColor: string;
 }
 
 
@@ -16,7 +21,7 @@ export interface PeriodicElement {
   styleUrl: './page-tables.component.scss'
 })
 export class PageTablesComponent implements AfterViewInit {
-  displayedColumns: string[] = ['name'];
+  displayedColumns: string[] = ['name', 'index', 'isActive', 'balance', 'age', 'eyeColor'];
   dataSource: any;
 
   constructor(private http: HttpClient) {
