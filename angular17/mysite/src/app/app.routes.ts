@@ -11,15 +11,22 @@ export const routes: Routes = [
         children: [
             {
                 path: 'images',
-                component: PageImageComponent,
+                loadComponent: () => import ('./pages/page-image/page-image.component').then(
+                    m => m.PageImageComponent
+                )
             },
             {
                 path: 'tables',
-                component: PageTablesComponent
+                loadComponent: () => import ('./pages/page-tables/page-tables.component').then(
+                    m => m.PageTablesComponent
+                )
             },
             {
                 path: 'all',
-                component: PageImageTableComponent
+                loadComponent: () => import ('./pages/page-image-table/page-image-table.component').then(
+                    m => m.PageImageTableComponent
+                )
+
             }
         ]
     },
